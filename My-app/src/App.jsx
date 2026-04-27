@@ -4,6 +4,7 @@ import Main from "./component/Main";
 import FuleSection from "./component/FuleSection";
 import Testimonials from "./component/Testimonials";
 import Footer from "./component/Footer";
+import Code from "./component/Code";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <FuleSection />
       <Testimonials />
       <Footer />
+      <Code />
     </>
   );
 }
